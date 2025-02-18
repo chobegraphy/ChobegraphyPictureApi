@@ -7,12 +7,15 @@
     "collections": [
       "Flower"
     ],
-    "district":{ "English": "Chattogram", "Bengali": "চট্টগ্রাম" },
+    "district": {
+      "English": "Chattogram",
+      "Bengali": "চট্টগ্রাম"
+    },
     "description": "anything that is good and beautifull",
     "uploadedTime": "2020-06-18T14:32:45.000Z",
     "copyright": "https://chobegraphy.vercel.app/",
     "downloadable": true,
-    "view": 1010,
+    "view": 1011,
     "download": 1026,
     "react": 2000,
     "thumbnail": "https://i.ibb.co.com/GvcHxrYf/f2cbe2d2ab2a.jpg",
