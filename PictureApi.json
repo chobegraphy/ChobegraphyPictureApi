@@ -1,97 +1,97 @@
 [
- {
-  "name": "শুভ্রতার ছোঁয়া",
-  "author": "Sifath Khan",
-  "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/flower (1)-1739901959100.jpg",
-  "dimensions": "2984 x 1524",
-  "collections": ["Flower, Nature"],
-  "copyright": "",
-  "downloadable": true,
-  "thumbnail": "https://i.ibb.co.com/4ggKQz26/12196a1a3a2d.jpg",
-  "encodedUrl": "https://i.ibb.co.com/4g5H51fp/9dcc6a0a71a0.jpg",
-  "description": "প্রকৃতির সৌন্দর্যে হারিয়ে যাওয়া দুটি শুভ্র ফুল, যেন শান্তির বার্তা বহন করছে। 🌿🌸",
-  "exifData": {
-    "aperture": "1.80",
-    "exposureTime": "1/100",
-    "flash": "Flash did not fire, compulsory flash mode",
-    "iso": 100,
-    "model": "realme 7 Pro",
-    "software": "Adobe Lightroom 6.0 (Android)",
-    "datetimeOriginal": "2021:06:28 13:22:14",
-    "focalLength": "5.58 mm",
-    "creatorTool": "Adobe Lightroom 6.0 (Android)",
-    "subjectDistance": ""
+  {
+    "name": "শুভ্রতার ছোঁয়া",
+    "author": "Sifath Khan",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage-1/main/flower (1)-1739901959100.jpg",
+    "dimensions": "2984 x 1524",
+    "collections": [
+      "Flower, Nature"
+    ],
+    "copyright": "",
+    "downloadable": true,
+    "thumbnail": "https://i.ibb.co.com/4ggKQz26/12196a1a3a2d.jpg",
+    "encodedUrl": "https://i.ibb.co.com/4g5H51fp/9dcc6a0a71a0.jpg",
+    "description": "anything that is good and beautifull",
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/100",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 100,
+      "model": "realme 7 Pro",
+      "software": "Adobe Lightroom 6.0 (Android)",
+      "datetimeOriginal": "2021:06:28 13:22:14",
+      "focalLength": "5.58 mm",
+      "creatorTool": "Adobe Lightroom 6.0 (Android)",
+      "subjectDistance": ""
+    },
+    "fileSize": "0.46",
+    "colors": [
+      {
+        "hex": "#c7a820",
+        "red": 199,
+        "green": 168,
+        "blue": 32,
+        "area": 0.0001248556356712551,
+        "hue": 0.13572854291417166,
+        "saturation": 0.722943722943723,
+        "lightness": 0.45294117647058824,
+        "intensity": 0.6549019607843137
+      },
+      {
+        "hex": "#428902",
+        "red": 66,
+        "green": 137,
+        "blue": 2,
+        "area": 0.0009208103130755065,
+        "hue": 0.254320987654321,
+        "saturation": 0.9712230215827339,
+        "lightness": 0.2725490196078431,
+        "intensity": 0.5294117647058824
+      },
+      {
+        "hex": "#81b383",
+        "red": 129,
+        "green": 179,
+        "blue": 131,
+        "area": 0.005275150607110529,
+        "hue": 0.34,
+        "saturation": 0.24752475247524747,
+        "lightness": 0.6039215686274509,
+        "intensity": 0.196078431372549
+      },
+      {
+        "hex": "#ceddd6",
+        "red": 206,
+        "green": 221,
+        "blue": 214,
+        "area": 0.037800043699472485,
+        "hue": 0.4222222222222222,
+        "saturation": 0.18072289156626511,
+        "lightness": 0.8372549019607843,
+        "intensity": 0.05882352941176471
+      },
+      {
+        "hex": "#003718",
+        "red": 0,
+        "green": 55,
+        "blue": 24,
+        "area": 0.9558791397446702,
+        "hue": 0.40606060606060607,
+        "saturation": 1,
+        "lightness": 0.10784313725490197,
+        "intensity": 0.21568627450980393
+      }
+    ],
+    "_id": "c9fccea2-723f-4735-82b8-af5d2565a404",
+    "view": 1,
+    "district": {
+      "English": "Chattogram",
+      "Bengali": "চট্টগ্রাম"
+    },
+    "uploadedTime": "2020-06-18T14:32:45.000Z",
+    "react": 2000,
+    "download": 1026
   },
-  "fileSize": "0.46",
-  "colors": [
-    {
-      "hex": "#c7a820",
-      "red": 199,
-      "green": 168,
-      "blue": 32,
-      "area": 0.0001248556356712551,
-      "hue": 0.13572854291417166,
-      "saturation": 0.722943722943723,
-      "lightness": 0.45294117647058824,
-      "intensity": 0.6549019607843137
-    },
-    {
-      "hex": "#428902",
-      "red": 66,
-      "green": 137,
-      "blue": 2,
-      "area": 0.0009208103130755065,
-      "hue": 0.254320987654321,
-      "saturation": 0.9712230215827339,
-      "lightness": 0.2725490196078431,
-      "intensity": 0.5294117647058824
-    },
-    {
-      "hex": "#81b383",
-      "red": 129,
-      "green": 179,
-      "blue": 131,
-      "area": 0.005275150607110529,
-      "hue": 0.34,
-      "saturation": 0.24752475247524747,
-      "lightness": 0.6039215686274509,
-      "intensity": 0.196078431372549
-    },
-    {
-      "hex": "#ceddd6",
-      "red": 206,
-      "green": 221,
-      "blue": 214,
-      "area": 0.037800043699472485,
-      "hue": 0.4222222222222222,
-      "saturation": 0.18072289156626511,
-      "lightness": 0.8372549019607843,
-      "intensity": 0.05882352941176471
-    },
-    {
-      "hex": "#003718",
-      "red": 0,
-      "green": 55,
-      "blue": 24,
-      "area": 0.9558791397446702,
-      "hue": 0.40606060606060607,
-      "saturation": 1,
-      "lightness": 0.10784313725490197,
-      "intensity": 0.21568627450980393
-    }
-  ],
-  "_id": "c9fccea2-723f-4735-82b8-af5d2565a404",
-  "view": null,
-  "district": {
-    "English": "Chattogram",
-    "Bengali": "চট্টগ্রাম"
-  },
-  "description": "anything that is good and beautifull",
-  "uploadedTime": "2020-06-18T14:32:45.000Z",
-  "react": 2000,
-  "download": 1026
-}
-,
   {
     "name": "Flower In Green scene",
     "author": "SifathKhan",
