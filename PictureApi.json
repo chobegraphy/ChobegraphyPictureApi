@@ -83,7 +83,7 @@
       }
     ],
     "_id": "c9fccea2-723f-4735-82b8-af5d2565a404",
-    "view": 1,
+    "view": 2,
     "district": {
       "English": "Chattogram",
       "Bengali": "চট্টগ্রাম"
@@ -104,7 +104,6 @@
       "English": "Chattogram",
       "Bengali": "চট্টগ্রাম"
     },
-   
     "uploadedTime": "2020-06-18T14:32:45.000Z",
     "copyright": "https://chobegraphy.vercel.app/",
     "downloadable": true,
