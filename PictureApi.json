@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "name": "retouch_2024103008520781.jpg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/retouch_2024103008520781.jpg",
+    "description": "একাকী কিন্তু দীপ্ত—এই হলুদ ফুলটি আমাদের শেখায়, যেকোনো পরিস্থিতিতেই মাথা উঁচু করে বাঁচতে।",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/retouch_2024103008520781.jpg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/retouch_2024103008520781.jpg",
+    "dimensions": "4778 x 6000",
+    "fileSize": "9.60",
+    "colors": [
+      {
+        "r": 249,
+        "g": 179,
+        "b": 26,
+        "hex": "#f9b31a",
+        "area": 0.0007192219894305638
+      },
+      {
+        "r": 160,
+        "g": 97,
+        "b": 5,
+        "hex": "#a06105",
+        "area": 0.003283404734356922
+      },
+      {
+        "r": 192,
+        "g": 192,
+        "b": 192,
+        "hex": "#c0c0c0",
+        "area": 0.0007973982926295382
+      },
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff",
+        "area": 0.006613715250633228
+      },
+      {
+        "r": 132,
+        "g": 132,
+        "b": 132,
+        "hex": "#848484",
+        "area": 0.013555770974702149
+      },
+      {
+        "r": 65,
+        "g": 65,
+        "b": 65,
+        "hex": "#414141",
+        "area": 0.08732293067325432
+      },
+      {
+        "r": 4,
+        "g": 4,
+        "b": 4,
+        "hex": "#040404",
+        "area": 0.8877075580849932
+      }
+    ],
+    "authorId": "d28274ef147df82fe05f9420",
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "",
+      "flash": "Flash did not fire",
+      "iso": "",
+      "model": "",
+      "software": "Adobe Lightroom 9.5.0 (Android)",
+      "datetimeOriginal": "",
+      "focalLength": "",
+      "creatorTool": "Adobe Lightroom 9.5.0 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-03-10T19:40:36.769Z",
+    "status": "approved",
+    "copyright": "",
+    "collections": [
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Cinematic",
+        "value": "সিনেমাটিক"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "39a3e504-5104-4f5c-aaf3-d7a8f91e8b60"
+  }
+]
