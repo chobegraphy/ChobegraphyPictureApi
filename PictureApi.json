@@ -1,5 +1,91 @@
 [
   {
+    "name": "flower (5).jpg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/flower (5).jpg",
+    "description": "শুভ্রতার ছোঁয়া ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/flower (5).jpg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/flower (5).jpg",
+    "dimensions": "10000 x 5626",
+    "fileSize": "7.78",
+    "colors": [
+      {
+        "r": 208,
+        "g": 193,
+        "b": 0,
+        "hex": "#d0c100",
+        "area": 0.0599406528189911
+      },
+      {
+        "r": 32,
+        "g": 170,
+        "b": 6,
+        "hex": "#20aa06",
+        "area": 0.0004060596595345932
+      },
+      {
+        "r": 118,
+        "g": 200,
+        "b": 85,
+        "hex": "#76c855",
+        "area": 0.011026081524285492
+      },
+      {
+        "r": 103,
+        "g": 88,
+        "b": 43,
+        "hex": "#67582b",
+        "area": 0.0015773856004997657
+      },
+      {
+        "r": 0,
+        "g": 44,
+        "b": 19,
+        "hex": "#002c13",
+        "area": 0.927049820396689
+      }
+    ],
+    "authorId": {
+      "name": "Chobegraphy",
+      "email": "chobegraphy@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
+      "_id": "d28274ef147df82fe05f9420"
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/160",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 100,
+      "model": "Realme 7 Pro",
+      "software": "Adobe Lightroom 7.3.0 (Android)",
+      "datetimeOriginal": "2022:04:25 16:36:58",
+      "focalLength": "5.58 mm",
+      "creatorTool": "Adobe Lightroom 7.3.0 (Android)",
+      "subjectDistance": "10.811 m"
+    },
+    "uploadedTime": "2025-03-10T21:10:18.782Z",
+    "status": "approved",
+    "copyright": "",
+    "collections": [
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "162f784e-2aee-4b19-8bf3-69669ebe4e4d"
+  },
+  {
     "name": "retouch_2024103008520781.jpg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/retouch_2024103008520781.jpg",
     "description": "একাকী কিন্তু দীপ্ত—এই হলুদ ফুলটি আমাদের শেখায়, যেকোনো পরিস্থিতিতেই মাথা উঁচু করে বাঁচতে।",
