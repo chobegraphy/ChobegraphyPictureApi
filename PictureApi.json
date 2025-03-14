@@ -1,5 +1,91 @@
 [
   {
+    "name": "20241010_163333-02~2.jpg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/20241010_163333-02~2.jpg",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/20241010_163333-02~2.jpg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/20241010_163333-02~2.jpg",
+    "dimensions": "3750 x 5000",
+    "fileSize": "3.53",
+    "colors": [
+      {
+        "r": 20,
+        "g": 40,
+        "b": 3,
+        "hex": "#142803",
+        "area": 0.2001000813160693
+      },
+      {
+        "r": 136,
+        "g": 153,
+        "b": 159,
+        "hex": "#88999f",
+        "area": 0.19334459248139113
+      },
+      {
+        "r": 82,
+        "g": 81,
+        "b": 82,
+        "hex": "#525152",
+        "area": 0.023800587977731907
+      },
+      {
+        "r": 208,
+        "g": 213,
+        "b": 217,
+        "hex": "#d0d5d9",
+        "area": 0.5827547382248076
+      }
+    ],
+    "authorId": {
+      "name": "Chobegraphy",
+      "email": "chobegraphy@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
+      "_id": "d28274ef147df82fe05f9420"
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "2.30",
+      "exposureTime": "1/50",
+      "flash": "Flash did not fire",
+      "iso": 235,
+      "model": "SM-A035F",
+      "software": "Adobe Lightroom 9.5.0 (Android)",
+      "datetimeOriginal": "2024:10:10 16:33:33",
+      "focalLength": "3.94 mm",
+      "creatorTool": "Adobe Lightroom 9.5.0 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-03-14T09:37:19.074Z",
+    "status": "approved",
+    "copyright": "",
+    "collections": [
+      {
+        "label": "Butterfly Pea Flower",
+        "value": "অপরাজিতা ফুল"
+      },
+      {
+        "label": "White Flower",
+        "value": "সাদা ফুল"
+      },
+      {
+        "label": "Book",
+        "value": "বই"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "9fa797b3-a20f-42a1-b0d0-d25a67c639c3"
+  },
+  {
     "name": "retouch_2024111922034042~2.jpg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/retouch_2024111922034042~2.jpg",
     "description": "তুমি ফুল নিয়ে এসো, আমি সব অভিমান ভুলে যাবো🌼❤️\n©️Suraiya Shimu",
