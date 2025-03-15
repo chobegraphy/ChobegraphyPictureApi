@@ -37,7 +37,7 @@
         "area": 0.18502533308313004
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Md. Arafath Hossain (Rahat)",
       "email": "arafatrahat94@gmail.com",
       "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
@@ -73,86 +73,6 @@
     "download": 0,
     "react": 0,
     "_id": "1eea6e61-be75-4f75-9baf-8218ec761565"
-  },
-  {
-    "name": "1000013334.jpg",
-    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/1000013334.jpg",
-    "description": "পেঁয়াজ ফুল🔥",
-    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/1000013334.jpg",
-    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/1000013334.jpg",
-    "dimensions": "3000 x 4000",
-    "fileSize": "5.93",
-    "colors": [
-      {
-        "r": 169,
-        "g": 133,
-        "b": 115,
-        "hex": "#a98573",
-        "area": 0.07248076562206793
-      },
-      {
-        "r": 70,
-        "g": 85,
-        "b": 92,
-        "hex": "#46555c",
-        "area": 0.19210921373616063
-      },
-      {
-        "r": 248,
-        "g": 252,
-        "b": 241,
-        "hex": "#f8fcf1",
-        "area": 0.16666666666666666
-      },
-      {
-        "r": 6,
-        "g": 24,
-        "b": 34,
-        "hex": "#061822",
-        "area": 0.5687433539751048
-      }
-    ],
-    "authorId": {
-      "name": "Md. Arafath Hossain (Rahat)",
-      "email": "arafatrahat94@gmail.com",
-      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
-      "_id": "d0ab56f5ba2a870683bb943e",
-      "upload_photo": false
-    },
-    "district": {
-      "id": "8",
-      "division_id": "1",
-      "name": "Chattogram",
-      "bn_name": "চট্টগ্রাম",
-      "lat": "22.335109",
-      "lon": "91.834073",
-      "url": "www.chittagong.gov.bd"
-    },
-    "exifData": {
-      "aperture": "1.78",
-      "exposureTime": "1/106",
-      "flash": "Flash did not fire, compulsory flash mode",
-      "iso": 100,
-      "model": "POCO M2 Pro",
-      "software": "",
-      "datetimeOriginal": "2025:03:13 17:16:57",
-      "focalLength": "4.74 mm",
-      "creatorTool": "",
-      "subjectDistance": ""
-    },
-    "uploadedTime": "2025-03-15T08:08:50.480Z",
-    "status": "approved",
-    "copyright": "",
-    "collections": [
-      {
-        "label": "Flower",
-        "value": "ফুল"
-      }
-    ],
-    "view": 0,
-    "download": 0,
-    "react": 0,
-    "_id": "4a678062-870f-4aee-872b-038460f4f6ea"
   },
   {
     "name": "retouch_2024103023193135~2.jpg",
@@ -220,7 +140,7 @@
         "area": 0.5261023505373326
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -320,7 +240,7 @@
         "area": 0.49401075874147743
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -396,7 +316,7 @@
         "area": 0.7151960018741215
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -445,100 +365,7 @@
     "react": 0,
     "_id": "3c45261a-1b45-42c4-af52-228371967227"
   },
-  {
-    "name": "IMG20240103074617 (1)~2.jpg",
-    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/IMG20240103074617 (1)~2.jpg",
-    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/IMG20240103074617 (1)~2.jpg",
-    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/IMG20240103074617 (1)~2-1741946059819.jpg",
-    "dimensions": "3750 x 5000",
-    "fileSize": "3.31",
-    "colors": [
-      {
-        "r": 49,
-        "g": 113,
-        "b": 103,
-        "hex": "#317167",
-        "area": 0.08375555138550073
-      },
-      {
-        "r": 120,
-        "g": 165,
-        "b": 160,
-        "hex": "#78a5a0",
-        "area": 0.0073028085319321945
-      },
-      {
-        "r": 194,
-        "g": 214,
-        "b": 213,
-        "hex": "#c2d6d5",
-        "area": 0.18455620191405517
-      },
-      {
-        "r": 1,
-        "g": 42,
-        "b": 38,
-        "hex": "#012a26",
-        "area": 0.7243854381685119
-      }
-    ],
-    "authorId": {
-      "name": "Chobegraphy",
-      "email": "chobegraphy@gmail.com",
-      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
-      "_id": "d28274ef147df82fe05f9420"
-    },
-    "district": {
-      "id": "8",
-      "division_id": "1",
-      "name": "Chattogram",
-      "bn_name": "চট্টগ্রাম",
-      "lat": "22.335109",
-      "lon": "91.834073",
-      "url": "www.chittagong.gov.bd"
-    },
-    "exifData": {
-      "aperture": "1.80",
-      "exposureTime": "1/125",
-      "flash": "Flash did not fire, compulsory flash mode",
-      "iso": 99,
-      "model": "realme 7 Pro",
-      "software": "Adobe Lightroom 9.5.0 (Android)",
-      "datetimeOriginal": "2024:01:03 07:46:17",
-      "focalLength": "5.58 mm",
-      "creatorTool": "Adobe Lightroom 9.5.0 (Android)",
-      "subjectDistance": ""
-    },
-    "uploadedTime": "2025-03-14T09:53:00.625Z",
-    "status": "approved",
-    "copyright": "",
-    "collections": [
-      {
-        "label": "Forests",
-        "value": "বন"
-      },
-      {
-        "label": "Green",
-        "value": "সবুজ"
-      },
-      {
-        "label": "Nature",
-        "value": "প্রকৃতি"
-      },
-      {
-        "label": "Dark",
-        "value": "অন্ধকার"
-      },
-      {
-        "label": "Fogy",
-        "value": "কুয়াশাচ্ছন্ন"
-      }
-    ],
-    "view": 0,
-    "download": 0,
-    "react": 1,
-    "_id": "4a6644ad-89ec-4cca-b11e-f7682d49727d"
-  },
+
   {
     "name": "02_Sifath_01571248563_Freelance  (3)~2.jpg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/02_Sifath_01571248563_Freelance  (3)~2.jpg",
@@ -590,7 +417,7 @@
         "area": 0.3727221579720564
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -672,7 +499,7 @@
         "area": 0.5827547382248076
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -794,7 +621,7 @@
         "area": 0.7108275473822481
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -905,7 +732,7 @@
         "area": 0.9511264732900494
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -999,7 +826,7 @@
         "area": 0.5718708951022706
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1094,7 +921,7 @@
         "area": 0.5718708951022706
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1209,7 +1036,7 @@
         "area": 0.552073559767311
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1314,7 +1141,7 @@
         "area": 0.8545693375867892
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1408,7 +1235,7 @@
         "area": 0.647322824795146
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1492,7 +1319,7 @@
         "area": 0.917370363420279
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1614,7 +1441,7 @@
         "area": 0.7051630434782609
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1719,7 +1546,7 @@
         "area": 0.7077781947832614
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1828,7 +1655,7 @@
         "area": 0.6754602569312037
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -1919,7 +1746,7 @@
         "area": 0.7488343079922027
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -2005,7 +1832,7 @@
         "area": 0.7488343079922027
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -2099,7 +1926,7 @@
         "area": 0.9403421529993119
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -2203,7 +2030,7 @@
         "area": 0.6213835889761816
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
@@ -2296,7 +2123,7 @@
         "area": 0.7793206980671796
       }
     ],
-    "authorId": {
+    "author": {
       "name": "Chobegraphy",
       "email": "chobegraphy@gmail.com",
       "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
