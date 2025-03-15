@@ -1,5 +1,89 @@
 [
   {
+    "name": "1000013247.jpg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/1000013247.jpg",
+    "description": "বিড়াল শান্ত প্রাণী",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/1000013247.jpg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/1000013247.jpg",
+    "dimensions": "3750 x 5000",
+    "fileSize": "2.49",
+    "colors": [
+      {
+        "r": 212,
+        "g": 212,
+        "b": 150,
+        "hex": "#d4d496",
+        "area": 0.12630574842059172
+      },
+      {
+        "r": 99,
+        "g": 102,
+        "b": 93,
+        "hex": "#63665d",
+        "area": 0.25991430537311566
+      },
+      {
+        "r": 18,
+        "g": 32,
+        "b": 20,
+        "hex": "#122014",
+        "area": 0.4131169074873335
+      },
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff",
+        "area": 0.20066303871895916
+      }
+    ],
+    "author": {
+      "name": "Md. Arafath Hossain (Rahat)",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "upload_photo": false
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "",
+      "flash": "Flash did not fire",
+      "iso": "",
+      "model": "",
+      "software": "Adobe Lightroom 9.5.0 (Android)",
+      "datetimeOriginal": "2024:11:24 17:05:24",
+      "focalLength": "",
+      "creatorTool": "Adobe Lightroom 9.5.0 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-03-15T17:30:32.225Z",
+    "status": "approved",
+    "copyright": "CC-0",
+    "collections": [
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Cat",
+        "value": "বিড়াল"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "8709fd48-8095-4da7-8083-06c2e0562c87"
+  },
+  {
     "name": "1000013248.jpg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/1000013248.jpg",
     "description": "টগর ফুল",
