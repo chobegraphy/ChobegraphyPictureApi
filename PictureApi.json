@@ -1,5 +1,100 @@
 [
   {
+    "name": "1000013279.jpg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/1000013279.jpg",
+    "description": "কুয়াশাময় ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/1000013279.jpg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/1000013279.jpg",
+    "dimensions": "2779 x 3000",
+    "fileSize": "1.09",
+    "colors": [
+      {
+        "r": 250,
+        "g": 202,
+        "b": 111,
+        "hex": "#faca6f",
+        "area": 0.00012517798745090677
+      },
+      {
+        "r": 155,
+        "g": 164,
+        "b": 167,
+        "hex": "#9ba4a7",
+        "area": 0.025348542458808618
+      },
+      {
+        "r": 90,
+        "g": 101,
+        "b": 105,
+        "hex": "#5a6569",
+        "area": 0.15270149744167488
+      },
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff",
+        "area": 0.007401148508034862
+      },
+      {
+        "r": 35,
+        "g": 39,
+        "b": 38,
+        "hex": "#232726",
+        "area": 0.8144236336040307
+      }
+    ],
+    "author": {
+      "name": "Md. Arafath Hossain (Rahat)",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "upload_photo": false
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/125",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 100,
+      "model": "realme 7 Pro",
+      "software": "Adobe Lightroom 9.5.0 (Android)",
+      "datetimeOriginal": "2024:01:03 08:38:16",
+      "focalLength": "5.58 mm",
+      "creatorTool": "Adobe Lightroom 9.5.0 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-03-15T17:41:05.414Z",
+    "status": "approved",
+    "copyright": "CC-0",
+    "collections": [
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Fogy",
+        "value": "কুয়াশাচ্ছন্ন"
+      },
+      {
+        "label": "Forests",
+        "value": "বন"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "d6537012-5d1f-4014-9452-a5886ce43279"
+  },
+  {
     "name": "1000013272.jpg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/1000013272.jpg",
     "description": "মেঘমালা",
