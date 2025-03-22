@@ -176,7 +176,7 @@
       "subjectDistance": "0.104 m"
     },
     "uploadedTime": "2025-03-21T18:37:57.671Z",
-    "status": "pending",
+    "status": "rejected",
     "copyright": "CC-BY",
     "collections": [
       {
@@ -199,7 +199,8 @@
     "view": 0,
     "download": 0,
     "react": 0,
-    "_id": "af824e3c-d4c4-46de-ac5e-284f9c4ffc07"
+    "_id": "af824e3c-d4c4-46de-ac5e-284f9c4ffc07",
+    "rejectionReason": "ছবি ওয়াটারমার্ক,লোগো বা লেখা সংযুক্ত"
   },
   {
     "name": "আমি অলস নই, আমি এনার্জি সংরক্ষণ করছি 😆 (Chobegraphy).jpeg",
