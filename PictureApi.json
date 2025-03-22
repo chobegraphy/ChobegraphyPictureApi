@@ -5495,213 +5495,109 @@
     "react": 1,
     "_id": "19b4f54e-93bf-4376-b4f3-21b7e20eed9d"
   },
-  {
-    "_id": "af824e3c-d4c4-46de-ac5e-284f9c4ffc07",
+    {
+     "_id": "af824e3c-d4c4-46de-ac5e-284f9c4ffc07",
     "name": "সাদা ফুল 💮 (Chobegraphy).jpeg",
-    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
-    "description": "সাদা ফুল 💮",
-    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
-    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
-    "dimensions": "3024 x 4032",
-    "fileSize": "2.20",
-    "colors": [
-      {
-        "r": 235,
-        "g": 167,
-        "b": 0,
-        "hex": "#eba700",
-        "area": 0.03762431975980484
-      },
-      {
-        "r": 243,
-        "g": 237,
-        "b": 106,
-        "hex": "#f3ed6a",
-        "area": 0.00006255082254331645
-      },
-      {
-        "r": 173,
-        "g": 148,
-        "b": 129,
-        "hex": "#ad9481",
-        "area": 0.008209795458810284
-      },
-      {
-        "r": 80,
-        "g": 118,
-        "b": 67,
-        "hex": "#507643",
-        "area": 0.10450678676424595
-      },
-      {
-        "r": 195,
-        "g": 214,
-        "b": 215,
-        "hex": "#c3d6d7",
-        "area": 0.08281728904735097
-      },
-      {
-        "r": 26,
-        "g": 51,
-        "b": 9,
-        "hex": "#1a3309",
-        "area": 0.7667792581472447
-      }
-    ],
-    "author": {
-      "name": "Chobegraphy",
-      "email": "chobegraphy@gmail.com",
-      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
-      "_id": "d28274ef147df82fe05f9420"
-    },
-    "district": {
-      "id": "8",
-      "division_id": "1",
-      "name": "Chattogram",
-      "bn_name": "চট্টগ্রাম",
-      "lat": "22.335109",
-      "lon": "91.834073",
-      "url": "www.chittagong.gov.bd"
-    },
-    "exifData": {
-      "aperture": "1.80",
-      "exposureTime": "1/1000",
-      "flash": "Flash did not fire, compulsory flash mode",
-      "iso": 36,
-      "model": "SM-G781B (R8Q)",
-      "software": "HDR+ 1.0.Chobegraphy V1zdh",
-      "datetimeOriginal": "2025:03:20 13:48:39",
-      "focalLength": "5.4 mm",
-      "creatorTool": "",
-      "subjectDistance": "0.104 m"
-    },
-    "uploadedTime": "2025-03-21T18:37:57.671Z",
-    "status": "rejected",
-    "copyright": "CC-BY",
-    "collections": [
-      {
-        "label": "Floral",
-        "value": "ফুল"
-      },
-      {
-        "label": "Flower",
-        "value": "ফুল"
-      },
-      {
-        "label": "White Flower",
-        "value": "সাদা ফুল"
-      },
-      {
-        "label": "Nature",
-        "value": "প্রকৃতি"
-      }
-    ],
-    "view": 0,
-    "download": 0,
-    "react": 0,
-    "newData": {
-      "name": "সাদা ফুল 💮 (Chobegraphy).jpeg",
-      "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
-      "description": "সাদা ফুল 💮",
-      "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
-      "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
-      "dimensions": "3024 x 4032",
-      "fileSize": "2.20",
-      "colors": [
-        {
-          "r": 235,
-          "g": 167,
-          "b": 0,
-          "hex": "#eba700",
-          "area": 0.03762431975980484
-        },
-        {
-          "r": 243,
-          "g": 237,
-          "b": 106,
-          "hex": "#f3ed6a",
-          "area": 0.00006255082254331645
-        },
-        {
-          "r": 173,
-          "g": 148,
-          "b": 129,
-          "hex": "#ad9481",
-          "area": 0.008209795458810284
-        },
-        {
-          "r": 80,
-          "g": 118,
-          "b": 67,
-          "hex": "#507643",
-          "area": 0.10450678676424595
-        },
-        {
-          "r": 195,
-          "g": 214,
-          "b": 215,
-          "hex": "#c3d6d7",
-          "area": 0.08281728904735097
-        },
-        {
-          "r": 26,
-          "g": 51,
-          "b": 9,
-          "hex": "#1a3309",
-          "area": 0.7667792581472447
-        }
-      ],
-      "author": {
-        "name": "Chobegraphy",
-        "email": "chobegraphy@gmail.com",
-        "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
-        "_id": "d28274ef147df82fe05f9420"
-      },
-      "district": {
-        "id": "8",
-        "division_id": "1",
-        "name": "Chattogram",
-        "bn_name": "চট্টগ্রাম",
-        "lat": "22.335109",
-        "lon": "91.834073",
-        "url": "www.chittagong.gov.bd"
-      },
-      "exifData": {
-        "aperture": "1.80",
-        "exposureTime": "1/1000",
-        "flash": "Flash did not fire, compulsory flash mode",
-        "iso": 36,
-        "model": "SM-G781B (R8Q)",
-        "software": "HDR+ 1.0.Chobegraphy V1zdh",
-        "datetimeOriginal": "2025:03:20 13:48:39",
-        "focalLength": "5.4 mm",
-        "creatorTool": "",
-        "subjectDistance": "0.104 m"
-      },
-      "uploadedTime": "2025-03-21T18:37:57.671Z",
-      "status": "pending",
-      "copyright": "CC-BY",
-      "collections": [
-        {
-          "label": "Floral",
-          "value": "ফুল"
-        },
-        {
-          "label": "Flower",
-          "value": "ফুল"
-        },
-        {
-          "label": "White Flower",
-          "value": "সাদা ফুল"
-        },
-        {
-          "label": "Nature",
-          "value": "প্রকৃতি"
-        }
-      ],
-      "view": 0,
-      "download": 0,
-      "react": 0
-    }
-  }
+       "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
+       "description": "সাদা ফুল 💮",
+       "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
+       "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
+       "dimensions": "3024 x 4032",
+       "fileSize": "2.20",
+       "colors": [
+         {
+           "r": 235,
+           "g": 167,
+           "b": 0,
+           "hex": "#eba700",
+           "area": 0.03762431975980484
+         },
+         {
+           "r": 243,
+           "g": 237,
+           "b": 106,
+           "hex": "#f3ed6a",
+           "area": 0.00006255082254331645
+         },
+         {
+           "r": 173,
+           "g": 148,
+           "b": 129,
+           "hex": "#ad9481",
+           "area": 0.008209795458810284
+         },
+         {
+           "r": 80,
+           "g": 118,
+           "b": 67,
+           "hex": "#507643",
+           "area": 0.10450678676424595
+         },
+         {
+           "r": 195,
+           "g": 214,
+           "b": 215,
+           "hex": "#c3d6d7",
+           "area": 0.08281728904735097
+         },
+         {
+           "r": 26,
+           "g": 51,
+           "b": 9,
+           "hex": "#1a3309",
+           "area": 0.7667792581472447
+         }
+       ],
+       "author": {
+         "name": "Chobegraphy",
+         "email": "chobegraphy@gmail.com",
+         "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/20250201_161558.png",
+         "_id": "d28274ef147df82fe05f9420"
+       },
+       "district": {
+         "id": "8",
+         "division_id": "1",
+         "name": "Chattogram",
+         "bn_name": "চট্টগ্রাম",
+         "lat": "22.335109",
+         "lon": "91.834073",
+         "url": "www.chittagong.gov.bd"
+       },
+       "exifData": {
+         "aperture": "1.80",
+         "exposureTime": "1/1000",
+         "flash": "Flash did not fire, compulsory flash mode",
+         "iso": 36,
+         "model": "SM-G781B (R8Q)",
+         "software": "HDR+ 1.0.Chobegraphy V1zdh",
+         "datetimeOriginal": "2025:03:20 13:48:39",
+         "focalLength": "5.4 mm",
+         "creatorTool": "",
+         "subjectDistance": "0.104 m"
+       },
+       "uploadedTime": "2025-03-21T18:37:57.671Z",
+       "status": "rejected",
+       "copyright": "CC-BY",
+       "collections": [
+         {
+           "label": "Floral",
+           "value": "ফুল"
+         },
+         {
+           "label": "Flower",
+           "value": "ফুল"
+         },
+         {
+           "label": "White Flower",
+           "value": "সাদা ফুল"
+         },
+         {
+           "label": "Nature",
+           "value": "প্রকৃতি"
+         }
+       ],
+       "view": 0,
+       "download": 0,
+       "react": 0
+     }
 ]
