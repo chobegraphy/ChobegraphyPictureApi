@@ -5497,8 +5497,7 @@
   },
   {
     "_id": "af824e3c-d4c4-46de-ac5e-284f9c4ffc07",
-    "newData": {
-      "name": "সাদা ফুল 💮 (Chobegraphy).jpeg",
+   "name": "সাদা ফুল 💮 (Chobegraphy).jpeg",
       "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
       "description": "সাদা ফুল 💮",
       "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/সাদা ফুল 💮 (Chobegraphy).jpeg",
@@ -5577,7 +5576,7 @@
         "subjectDistance": "0.104 m"
       },
       "uploadedTime": "2025-03-21T18:37:57.671Z",
-      "status": "pending",
+      "status": "rejected",
       "copyright": "CC-BY",
       "collections": [
         {
@@ -5601,5 +5600,4 @@
       "download": 0,
       "react": 0
     }
-  }
 ]
