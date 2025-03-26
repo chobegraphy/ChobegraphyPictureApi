@@ -1,5 +1,100 @@
 [
   {
+    "name": "প্রকৃতির এক আশ্চর্য সৃষ্টি\nযেখানে কোমলতা আর\nসৌন্দর্য মিলেমিশে একসাথে 🤍 (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/প্রকৃতির এক আশ্চর্য সৃষ্টি\r\nযেখানে কোমলতা আর\r\nসৌন্দর্য মিলেমিশে একসাথে 🤍 (Chobegraphy).jpeg",
+    "description": "প্রকৃতির এক আশ্চর্য সৃষ্টি\nযেখানে কোমলতা আর\nসৌন্দর্য মিলেমিশে একসাথে 🤍",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/প্রকৃতির এক আশ্চর্য সৃষ্টি\nযেখানে কোমলতা আর\nসৌন্দর্য মিলেমিশে একসাথে 🤍 (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/প্রকৃতির এক আশ্চর্য সৃষ্টি\nযেখানে কোমলতা আর\nসৌন্দর্য মিলেমিশে একসাথে 🤍 (Chobegraphy).jpeg",
+    "dimensions": "4248 x 5664",
+    "fileSize": "10.29",
+    "colors": [
+      {
+        "r": 194,
+        "g": 49,
+        "b": 52,
+        "hex": "#c23134",
+        "area": 0.001423031212860449
+      },
+      {
+        "r": 113,
+        "g": 102,
+        "b": 94,
+        "hex": "#71665e",
+        "area": 0.03778069681616313
+      },
+      {
+        "r": 168,
+        "g": 159,
+        "b": 153,
+        "hex": "#a89f99",
+        "area": 0.11304497404140865
+      },
+      {
+        "r": 225,
+        "g": 218,
+        "b": 215,
+        "hex": "#e1dad7",
+        "area": 0.2502658409958091
+      },
+      {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "hex": "#000000",
+        "area": 0.5974854569337587
+      }
+    ],
+    "author": {
+      "name": "Zakaria Hossain",
+      "email": "zakariahossain323@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/457596104_1028151319100640_8318589334397197086_n.jpg",
+      "_id": "100b5f7f15f1df12649da7bf",
+      "teamMember": true
+    },
+    "district": {
+      "id": "13",
+      "division_id": "2",
+      "name": "Pabna",
+      "bn_name": "পাবনা",
+      "lat": "23.998524",
+      "lon": "89.233645",
+      "url": "www.pabna.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/250",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 112,
+      "model": "Redmi Note 7 Pro",
+      "software": "Adobe Photoshop 26.2 (Windows)",
+      "datetimeOriginal": "2024:05:21 11:18:00",
+      "focalLength": "4.74 mm",
+      "creatorTool": "Adobe Lightroom 9.2.1 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-03-26T05:31:39.407Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Animals",
+        "value": "প্রাণী"
+      },
+      {
+        "label": "Animal Portraits",
+        "value": "প্রাণী পোর্ট্রেট"
+      },
+      {
+        "label": "White",
+        "value": "সাদা"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "80c927f6-06c4-4f0b-a785-54a02a020671"
+  },
+  {
     "name": "ভালোবাসার মাধবিলতা (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/ভালোবাসার মাধবিলতা (Chobegraphy).jpeg",
     "description": "ভালোবাসার মাধবিলতা",
