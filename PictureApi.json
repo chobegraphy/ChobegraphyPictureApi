@@ -1,5 +1,125 @@
 [
   {
+    "name": "গোলাপ ফুল  (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/গোলাপ ফুল  (Chobegraphy).jpeg",
+    "description": "গোলাপ ফুল ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/গোলাপ ফুল  (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/গোলাপ ফুল  (Chobegraphy).jpeg",
+    "dimensions": "5100 x 2869",
+    "fileSize": "3.75",
+    "colors": [
+      {
+        "r": 240,
+        "g": 84,
+        "b": 146,
+        "hex": "#f05492",
+        "area": 0.0004060596595345932
+      },
+      {
+        "r": 168,
+        "g": 32,
+        "b": 96,
+        "hex": "#a82060",
+        "area": 0.046837419959394035
+      },
+      {
+        "r": 101,
+        "g": 131,
+        "b": 143,
+        "hex": "#65838f",
+        "area": 0.0018272684679056692
+      },
+      {
+        "r": 41,
+        "g": 71,
+        "b": 83,
+        "hex": "#294753",
+        "area": 0.15723879431516477
+      },
+      {
+        "r": 1,
+        "g": 8,
+        "b": 1,
+        "hex": "#010801",
+        "area": 0.7936904575980009
+      }
+    ],
+    "author": {
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "teamMember": true,
+      "name": "Md. Arafath Hossain (Rahat)",
+      "phone": "+8801980389400",
+      "district": {
+        "id": "8",
+        "division_id": "1",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "lat": "22.335109",
+        "lon": "91.834073",
+        "url": "www.chittagong.gov.bd"
+      },
+      "presentAddress": "ইমাম নগর, ভাটিয়ারী, চট্টগ্রাম",
+      "gmail": "arafatrahat94@gmail.com",
+      "facebook": "https://www.facebook.com/md.arafathhossainrahat/",
+      "whatsapp": "+8801980389400",
+      "telegram": "https://t.me/ArafathSensei94",
+      "aboutMe": "Iam A web developer & with front‑end & back-end skills.",
+      "teamRole": "Web and App developer and maintainer."
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/20",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 1283,
+      "model": "POCO M2 Pro",
+      "software": "Adobe Lightroom 7.1.1 (Android)",
+      "datetimeOriginal": "2022:02:12 17:43:14",
+      "focalLength": "4.74 mm",
+      "creatorTool": "Adobe Lightroom 7.1.1 (Android)",
+      "subjectDistance": "7.845 m"
+    },
+    "uploadedTime": "2025-03-30T19:09:31.131Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Floral",
+        "value": "ফুল"
+      },
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      },
+      {
+        "label": "Rose Flower",
+        "value": "গোলাপ ফুল"
+      },
+      {
+        "label": "Red flower",
+        "value": "লাল ফুল"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "0b860aac-8cda-4ba3-bfec-73f346d4d766"
+  },
+  {
     "name": "সাদা ফুল (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাদা ফুল (Chobegraphy)-1743361764180.jpeg",
     "description": "সাদা ফুল",
