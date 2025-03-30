@@ -1,5 +1,125 @@
 [
   {
+    "name": "ফুল মেলা (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/ফুল মেলা (Chobegraphy).jpeg",
+    "description": "ফুল মেলা",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/ফুল মেলা (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/ফুল মেলা (Chobegraphy).jpeg",
+    "dimensions": "5100 x 2808",
+    "fileSize": "6.67",
+    "colors": [
+      {
+        "r": 224,
+        "g": 53,
+        "b": 80,
+        "hex": "#e03550",
+        "area": 0.0014506769825918763
+      },
+      {
+        "r": 151,
+        "g": 0,
+        "b": 26,
+        "hex": "#97001a",
+        "area": 0.03877831159917639
+      },
+      {
+        "r": 221,
+        "g": 193,
+        "b": 202,
+        "hex": "#ddc1ca",
+        "area": 0.03696886504024459
+      },
+      {
+        "r": 112,
+        "g": 131,
+        "b": 101,
+        "hex": "#708365",
+        "area": 0.24764459973794223
+      },
+      {
+        "r": 2,
+        "g": 2,
+        "b": 2,
+        "hex": "#020202",
+        "area": 0.6751575466400449
+      }
+    ],
+    "author": {
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "teamMember": true,
+      "name": "Md. Arafath Hossain (Rahat)",
+      "phone": "+8801980389400",
+      "district": {
+        "id": "8",
+        "division_id": "1",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "lat": "22.335109",
+        "lon": "91.834073",
+        "url": "www.chittagong.gov.bd"
+      },
+      "presentAddress": "ইমাম নগর, ভাটিয়ারী, চট্টগ্রাম",
+      "gmail": "arafatrahat94@gmail.com",
+      "facebook": "https://www.facebook.com/md.arafathhossainrahat/",
+      "whatsapp": "+8801980389400",
+      "telegram": "https://t.me/ArafathSensei94",
+      "aboutMe": "Iam A web developer & with front‑end & back-end skills.",
+      "teamRole": "Web and App developer and maintainer."
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/500",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 87,
+      "model": "QCAM-AA",
+      "software": "Adobe Lightroom 7.1.1 (Android)",
+      "datetimeOriginal": "2022:02:02 15:52:13",
+      "focalLength": "4.74 mm",
+      "creatorTool": "Adobe Lightroom 7.1.1 (Android)",
+      "subjectDistance": "0.13 m"
+    },
+    "uploadedTime": "2025-03-30T19:12:43.100Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Floral",
+        "value": "ফুল"
+      },
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      },
+      {
+        "label": "White Flower",
+        "value": "সাদা ফুল"
+      },
+      {
+        "label": "Red flower",
+        "value": "লাল ফুল"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "003aef6c-3385-4b9b-a560-f47d529ad8bd"
+  },
+  {
     "name": "বনসাই গাছ (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/বনসাই গাছ (Chobegraphy).jpeg",
     "description": "বনসাই গাছ",
