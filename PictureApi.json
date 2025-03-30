@@ -1,5 +1,114 @@
 [
   {
+    "name": "সাদা নয়ন তারা ফুল (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাদা নয়ন তারা ফুল (Chobegraphy).jpeg",
+    "description": "সাদা নয়ন তারা ফুল",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/সাদা নয়ন তারা ফুল (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/সাদা নয়ন তারা ফুল (Chobegraphy).jpeg",
+    "dimensions": "2592 x 1944",
+    "fileSize": "1.68",
+    "colors": [
+      {
+        "r": 136,
+        "g": 165,
+        "b": 2,
+        "hex": "#88a502",
+        "area": 0.012463251391755801
+      },
+      {
+        "r": 178,
+        "g": 196,
+        "b": 232,
+        "hex": "#b2c4e8",
+        "area": 0.16597860761869018
+      },
+      {
+        "r": 112,
+        "g": 132,
+        "b": 132,
+        "hex": "#708484",
+        "area": 0.1529211234127729
+      },
+      {
+        "r": 36,
+        "g": 70,
+        "b": 34,
+        "hex": "#244622",
+        "area": 0.6686370175767812
+      }
+    ],
+    "author": {
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "teamMember": true,
+      "name": "Md. Arafath Hossain (Rahat)",
+      "phone": "+8801980389400",
+      "district": {
+        "id": "8",
+        "division_id": "1",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "lat": "22.335109",
+        "lon": "91.834073",
+        "url": "www.chittagong.gov.bd"
+      },
+      "presentAddress": "ইমাম নগর, ভাটিয়ারী, চট্টগ্রাম",
+      "gmail": "arafatrahat94@gmail.com",
+      "facebook": "https://www.facebook.com/md.arafathhossainrahat/",
+      "whatsapp": "+8801980389400",
+      "telegram": "https://t.me/ArafathSensei94",
+      "aboutMe": "Iam A web developer & with front‑end & back-end skills.",
+      "teamRole": "Web and App developer and maintainer."
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "2.40",
+      "exposureTime": "1/158",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 97,
+      "model": "POCO M2 Pro",
+      "software": "HDR+ 1.0.313422396nd",
+      "datetimeOriginal": "2021:08:22 16:43:21",
+      "focalLength": "1.94 mm",
+      "creatorTool": "",
+      "subjectDistance": "0.257 m"
+    },
+    "uploadedTime": "2025-03-30T19:16:59.918Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Floral",
+        "value": "ফুল"
+      },
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      },
+      {
+        "label": "Catharanthus Flower",
+        "value": "নয়ন তারা ফুল"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "c0424876-f15b-4894-84f0-2b41a071cc9d"
+  },
+  {
     "name": "সবুজ ময়  (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সবুজ ময়  (Chobegraphy).jpeg",
     "description": "সবুজ ময় ",
