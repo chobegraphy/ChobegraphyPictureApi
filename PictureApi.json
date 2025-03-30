@@ -1,5 +1,128 @@
 [
   {
+    "name": "নয়ন তারা ফুল  (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/নয়ন তারা ফুল  (Chobegraphy).jpeg",
+    "description": "নয়ন তারা ফুল ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/নয়ন তারা ফুল  (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/নয়ন তারা ফুল  (Chobegraphy).jpeg",
+    "dimensions": "2688 x 1512",
+    "fileSize": "0.87",
+    "colors": [
+      {
+        "r": 96,
+        "g": 155,
+        "b": 0,
+        "hex": "#609b00",
+        "area": 0.00037482430110885524
+      },
+      {
+        "r": 219,
+        "g": 126,
+        "b": 221,
+        "hex": "#db7edd",
+        "area": 0.14944557238794315
+      },
+      {
+        "r": 119,
+        "g": 33,
+        "b": 105,
+        "hex": "#772169",
+        "area": 0.14436982664376075
+      },
+      {
+        "r": 128,
+        "g": 164,
+        "b": 142,
+        "hex": "#80a48e",
+        "area": 0.005544276120568484
+      },
+      {
+        "r": 49,
+        "g": 74,
+        "b": 47,
+        "hex": "#314a2f",
+        "area": 0.04185538029048883
+      },
+      {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "hex": "#000000",
+        "area": 0.65841012025613
+      }
+    ],
+    "author": {
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "teamMember": true,
+      "name": "Md. Arafath Hossain (Rahat)",
+      "phone": "+8801980389400",
+      "district": {
+        "id": "8",
+        "division_id": "1",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "lat": "22.335109",
+        "lon": "91.834073",
+        "url": "www.chittagong.gov.bd"
+      },
+      "presentAddress": "ইমাম নগর, ভাটিয়ারী, চট্টগ্রাম",
+      "gmail": "arafatrahat94@gmail.com",
+      "facebook": "https://www.facebook.com/md.arafathhossainrahat/",
+      "whatsapp": "+8801980389400",
+      "telegram": "https://t.me/ArafathSensei94",
+      "aboutMe": "Iam A web developer & with front‑end & back-end skills.",
+      "teamRole": "Web and App developer and maintainer."
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.79",
+      "exposureTime": "1/7",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 3530,
+      "model": "POCO M2 Pro",
+      "software": "HDR+ 1.0.313422396nl",
+      "datetimeOriginal": "2021:05:10 00:06:11",
+      "focalLength": "4.74 mm",
+      "creatorTool": "",
+      "subjectDistance": "0.166 m"
+    },
+    "uploadedTime": "2025-03-30T19:19:47.671Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Floral",
+        "value": "ফুল"
+      },
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      },
+      {
+        "label": "Catharanthus Flower",
+        "value": "নয়ন তারা ফুল"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "4f9da102-dadb-43a4-a155-36224ae526a7"
+  },
+  {
     "name": "লেক কতই না সুন্দর  (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/লেক কতই না সুন্দর  (Chobegraphy).jpeg",
     "description": "লেক কতই না সুন্দর ",
