@@ -1,5 +1,141 @@
 [
   {
+    "name": "Capture Time.... (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/Capture Time.... (Chobegraphy).jpeg",
+    "description": "Capture Time....",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/Capture Time.... (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/Capture Time.... (Chobegraphy).jpeg",
+    "dimensions": "4640 x 3472",
+    "fileSize": "6.76",
+    "colors": [
+      {
+        "r": 207,
+        "g": 207,
+        "b": 157,
+        "hex": "#cfcf9d",
+        "area": 0.2588040282729718
+      },
+      {
+        "r": 126,
+        "g": 139,
+        "b": 119,
+        "hex": "#7e8b77",
+        "area": 0.17390692437605554
+      },
+      {
+        "r": 19,
+        "g": 25,
+        "b": 25,
+        "hex": "#131919",
+        "area": 0.5672890473509726
+      }
+    ],
+    "author": {
+      "name": "Sparsho",
+      "email": "sparshosaha1210@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/inbound7244419041811312742.jpg",
+      "_id": "e66f42c0a5d82f9c803ffacb"
+    },
+    "district": {
+      "id": "19",
+      "division_id": "2",
+      "name": "Naogaon",
+      "bn_name": "নওগাঁ",
+      "lat": "24.83256191",
+      "lon": "88.92485205",
+      "url": "www.naogaon.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.90",
+      "exposureTime": "1/1050",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 100,
+      "model": "Redmi Note 9 Pro",
+      "software": "Adobe Lightroom 9.4.3 (Android)",
+      "datetimeOriginal": "2024:11:19 07:21:00",
+      "focalLength": "5.43 mm",
+      "creatorTool": "Adobe Lightroom 9.4.3 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-04-15T18:15:41.595Z",
+    "status": "pending",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Boy",
+        "value": "ছেলে"
+      },
+      {
+        "label": "Landscapes",
+        "value": "দৃশ্যপট"
+      },
+      {
+        "label": "Misty",
+        "value": "কুয়াশাচ্ছন্ন"
+      },
+      {
+        "label": "Sky",
+        "value": "আকাশ"
+      },
+      {
+        "label": " Street Photography",
+        "value": "স্ট্রিট ফটোগ্রাফি"
+      },
+      {
+        "label": "Tree",
+        "value": "গাছ"
+      },
+      {
+        "label": "Travel",
+        "value": "ভ্রমণ"
+      },
+      {
+        "label": "Winter",
+        "value": "শীতকালীন"
+      },
+      {
+        "label": "Cinematic",
+        "value": "সিনেমাটিক"
+      },
+      {
+        "label": "Creative",
+        "value": "সৃজনশীল"
+      },
+      {
+        "label": "Environmental",
+        "value": "পরিবেশগত"
+      },
+      {
+        "label": "Real Life",
+        "value": "প্রকৃত জীবন"
+      },
+      {
+        "label": "Yellow",
+        "value": "হলুদ"
+      },
+      {
+        "label": "Gray",
+        "value": "ধূসর"
+      },
+      {
+        "label": "Fogy",
+        "value": "কুয়াশাচ্ছন্ন"
+      },
+      {
+        "label": "Greenish",
+        "value": "সবুজময় "
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "da9c3c38-b936-45ac-ae33-73c2a41ae836"
+  },
+  {
     "name": "সময়ে কেড়ে সবই শুধু নেই,কিছু ফিরে দেয় না... (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সময়ে কেড়ে সবই শুধু নেই,কিছু ফিরে দেয় না... (Chobegraphy).jpeg",
     "description": "সময়ে কেড়ে সবই শুধু নেই,কিছু ফিরে দেয় না...",
