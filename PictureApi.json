@@ -1,5 +1,116 @@
 [
   {
+    "name": "আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
+    "description": "আমার ছোট তরী, বলো যাবে কি...!!",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
+    "dimensions": "4032 x 3024",
+    "fileSize": "5.07",
+    "colors": [
+      {
+        "r": 127,
+        "g": 139,
+        "b": 105,
+        "hex": "#7f8b69",
+        "area": 0.21354850816288234
+      },
+      {
+        "r": 29,
+        "g": 35,
+        "b": 25,
+        "hex": "#1d2319",
+        "area": 0.01179083004941515
+      },
+      {
+        "r": 189,
+        "g": 201,
+        "b": 151,
+        "hex": "#bdc997",
+        "area": 0.7746606617877025
+      }
+    ],
+    "author": {
+      "_id": "e66f42c0a5d82f9c803ffacb",
+      "email": "sparshosaha1210@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/inbound7244419041811312742.jpg",
+      "name": "Sparsho",
+      "phone": "01717152028",
+      "district": {
+        "id": "19",
+        "division_id": "2",
+        "name": "Naogaon",
+        "bn_name": "নওগাঁ",
+        "lat": "24.83256191",
+        "lon": "88.92485205",
+        "url": "www.naogaon.gov.bd"
+      },
+      "presentAddress": "Naogaon ",
+      "gmail": "sparshosaha1210@gmail.com",
+      "facebook": "https://www.facebook.com/sparsho.roksparsho.3https://www.facebook.com/sparsho.roksparsho.3",
+      "whatsapp": "01717152028",
+      "aboutMe": "ছোট্ট মোবাইল ফটোগ্রাফার... ছবি তুলতে ভালোবাসি...মানুষ যেটাকে এক ভাবে দেখে আমি ক্যামেরা দিয়ে সেই জিনিসটাকে different angel  থেকে দেখানোর চেষ্টা করি..."
+    },
+    "district": {
+      "id": "15",
+      "division_id": "2",
+      "name": "Rajshahi",
+      "bn_name": "রাজশাহী",
+      "lat": "24.37230298",
+      "lon": "88.56307623",
+      "url": "www.rajshahi.gov.bd"
+    },
+    "exifData": {
+      "aperture": "2.10",
+      "exposureTime": "1/500",
+      "flash": "Flash did not fire",
+      "iso": 50,
+      "model": "SM-N9750",
+      "software": "Adobe Lightroom 9.4.3 (Android)",
+      "datetimeOriginal": "2024:03:24 16:33:42",
+      "focalLength": "6 mm",
+      "creatorTool": "Adobe Lightroom 9.4.3 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-04-20T06:44:34.514Z",
+    "status": "pending",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Boat",
+        "value": "নৌকা "
+      },
+      {
+        "label": "River",
+        "value": "নদী"
+      },
+      {
+        "label": "Cloudy",
+        "value": "মেঘলা"
+      },
+      {
+        "label": "Transportation",
+        "value": "পরিবহন"
+      },
+      {
+        "label": "Vintage",
+        "value": "ভিনটেজ"
+      },
+      {
+        "label": "Water",
+        "value": "পানি"
+      },
+      {
+        "label": "Morning ",
+        "value": "সকাল"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "2b67d7d4-a7fe-4859-a7f1-32adcfd29069"
+  },
+  {
     "name": "Farmers hut covered with fogg. (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/Farmers hut covered with fogg. (Chobegraphy).jpeg",
     "description": "Farmers hut covered with fogg.",
