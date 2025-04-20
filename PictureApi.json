@@ -1,5 +1,187 @@
 [
   {
+    "name": "সাম্পান নৌকা (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/সাম্পান নৌকা (Chobegraphy).jpeg",
+    "description": "সাম্পান নৌকা",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/সাম্পান নৌকা (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/সাম্পান নৌকা (Chobegraphy).jpeg",
+    "dimensions": "4096 x 3073",
+    "fileSize": "7.20",
+    "colors": [
+      {
+        "r": 240,
+        "g": 3,
+        "b": 14,
+        "hex": "#f0030e",
+        "area": 0.0014699443297679364
+      },
+      {
+        "r": 13,
+        "g": 188,
+        "b": 207,
+        "hex": "#0dbccf",
+        "area": 0.060408456871207855
+      },
+      {
+        "r": 96,
+        "g": 84,
+        "b": 228,
+        "hex": "#6054e4",
+        "area": 0.00010946393945080378
+      },
+      {
+        "r": 241,
+        "g": 181,
+        "b": 141,
+        "hex": "#f1b58d",
+        "area": 0.0020485394382936135
+      },
+      {
+        "r": 150,
+        "g": 203,
+        "b": 233,
+        "hex": "#96cbe9",
+        "area": 0.29015762807280915
+      },
+      {
+        "r": 17,
+        "g": 33,
+        "b": 32,
+        "hex": "#112120",
+        "area": 0.15090385938575093
+      },
+      {
+        "r": 122,
+        "g": 123,
+        "b": 109,
+        "hex": "#7a7b6d",
+        "area": 0.13657972102333146
+      },
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff",
+        "area": 0.3583223869393882
+      }
+    ],
+    "author": {
+      "_id": "e66f42c0a5d82f9c803ffacb",
+      "email": "sparshosaha1210@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/inbound7244419041811312742.jpg",
+      "name": "Sparsho",
+      "phone": "01717152028",
+      "district": {
+        "id": "19",
+        "division_id": "2",
+        "name": "Naogaon",
+        "bn_name": "নওগাঁ",
+        "lat": "24.83256191",
+        "lon": "88.92485205",
+        "url": "www.naogaon.gov.bd"
+      },
+      "presentAddress": "Naogaon ",
+      "gmail": "sparshosaha1210@gmail.com",
+      "facebook": "https://www.facebook.com/sparsho.roksparsho.3https://www.facebook.com/sparsho.roksparsho.3",
+      "whatsapp": "01717152028",
+      "aboutMe": "ছোট্ট মোবাইল ফটোগ্রাফার... ছবি তুলতে ভালোবাসি...মানুষ যেটাকে এক ভাবে দেখে আমি ক্যামেরা দিয়ে সেই জিনিসটাকে different angel  থেকে দেখানোর চেষ্টা করি..."
+    },
+    "district": {
+      "id": "9",
+      "division_id": "1",
+      "name": "Coxsbazar",
+      "bn_name": "কক্সবাজার",
+      "lat": "21.44315751",
+      "lon": "91.97381741",
+      "url": "www.coxsbazar.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "1/5000",
+      "flash": "",
+      "iso": 64,
+      "model": "",
+      "software": "",
+      "datetimeOriginal": "",
+      "focalLength": "",
+      "creatorTool": "",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-04-20T06:50:21.468Z",
+    "status": "pending",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Boat",
+        "value": "নৌকা "
+      },
+      {
+        "label": "Sea",
+        "value": "সমুদ্র"
+      },
+      {
+        "label": "Sky",
+        "value": "আকাশ"
+      },
+      {
+        "label": "Beach",
+        "value": "সৈকত"
+      },
+      {
+        "label": "Flag",
+        "value": "পতাকা"
+      },
+      {
+        "label": "Landscapes",
+        "value": "দৃশ্যপট"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Transportation",
+        "value": "পরিবহন"
+      },
+      {
+        "label": "Red",
+        "value": "লাল"
+      },
+      {
+        "label": "Black",
+        "value": "কাল"
+      },
+      {
+        "label": "White",
+        "value": "সাদা"
+      },
+      {
+        "label": "Purple",
+        "value": "বেগুনি"
+      },
+      {
+        "label": "Gray",
+        "value": "ধূসর"
+      },
+      {
+        "label": "Water",
+        "value": "পানি"
+      },
+      {
+        "label": "Red Violet",
+        "value": "লাল-বেগুনি"
+      },
+      {
+        "label": "still image ",
+        "value": "স্থিরচিত্র "
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "64a4f23e-916a-4f02-8065-044b12bee1d7"
+  },
+  {
     "name": "আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
     "description": "আমার ছোট তরী, বলো যাবে কি...!!",
