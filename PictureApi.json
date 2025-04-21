@@ -1,5 +1,128 @@
 [
   {
+    "name": "প্রজাপতি🦋 (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/প্রজাপতি🦋 (Chobegraphy).jpeg",
+    "description": "প্রজাপতি🦋",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/প্রজাপতি🦋 (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/প্রজাপতি🦋 (Chobegraphy).jpeg",
+    "dimensions": "2492 x 2328",
+    "fileSize": "3.23",
+    "colors": [
+      {
+        "r": 240,
+        "g": 162,
+        "b": 10,
+        "hex": "#f0a20a",
+        "area": 0.004813833930518772
+      },
+      {
+        "r": 182,
+        "g": 0,
+        "b": 48,
+        "hex": "#b60030",
+        "area": 0.0465337279950148
+      },
+      {
+        "r": 192,
+        "g": 117,
+        "b": 145,
+        "hex": "#c07591",
+        "area": 0.10004673625175262
+      },
+      {
+        "r": 82,
+        "g": 66,
+        "b": 42,
+        "hex": "#52422a",
+        "area": 0.18579217946720672
+      },
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff",
+        "area": 0.008739679077737966
+      },
+      {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "hex": "#000000",
+        "area": 0.6540738432777691
+      }
+    ],
+    "author": {
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "teamMember": true,
+      "name": "Md. Arafath Hossain (Rahat)",
+      "phone": "+8801980389400",
+      "district": {
+        "id": "8",
+        "division_id": "1",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "lat": "22.335109",
+        "lon": "91.834073",
+        "url": "www.chittagong.gov.bd"
+      },
+      "presentAddress": "ইমাম নগর, ভাটিয়ারী, চট্টগ্রাম",
+      "gmail": "arafatrahat94@gmail.com",
+      "facebook": "https://www.facebook.com/md.arafathhossainrahat/",
+      "whatsapp": "+8801980389400",
+      "telegram": "https://t.me/ArafathSensei94",
+      "aboutMe": "Iam A web developer & with front‑end & back-end skills.",
+      "teamRole": "Web and App developer and maintainer."
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "",
+      "flash": "",
+      "iso": "",
+      "model": "",
+      "software": "",
+      "datetimeOriginal": "",
+      "focalLength": "",
+      "creatorTool": "",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-04-21T17:53:12.631Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Insect",
+        "value": "কীটপতঙ্গ "
+      },
+      {
+        "label": "Macro",
+        "value": "ম্যাক্রো"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Butterfly",
+        "value": "প্রজাপতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "f84414f5-a47d-4dc2-8161-6b2888831837"
+  },
+  {
     "name": "প্রকৃতির সমাহার🌎 (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/প্রকৃতির সমাহার🌎 (Chobegraphy).jpeg",
     "description": "প্রকৃতির সমাহার🌎",
