@@ -1,5 +1,121 @@
 [
   {
+    "name": "নগরের কোলেও বাগানবিলাস হারায় না তার সৌন্দর্য 🍂 (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/নগরের কোলেও বাগানবিলাস হারায় না তার সৌন্দর্য 🍂 (Chobegraphy).jpeg",
+    "description": "নগরের কোলেও বাগানবিলাস হারায় না তার সৌন্দর্য 🍂",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/নগরের কোলেও বাগানবিলাস হারায় না তার সৌন্দর্য 🍂 (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/নগরের কোলেও বাগানবিলাস হারায় না তার সৌন্দর্য 🍂 (Chobegraphy).jpeg",
+    "dimensions": "4000 x 2999",
+    "fileSize": "8.85",
+    "colors": [
+      {
+        "r": 186,
+        "g": 2,
+        "b": 139,
+        "hex": "#ba028b",
+        "area": 0.0005942328141615062
+      },
+      {
+        "r": 154,
+        "g": 178,
+        "b": 4,
+        "hex": "#9ab204",
+        "area": 0.004628760868205417
+      },
+      {
+        "r": 5,
+        "g": 150,
+        "b": 75,
+        "hex": "#05964b",
+        "area": 0.00010946393945080378
+      },
+      {
+        "r": 224,
+        "g": 82,
+        "b": 192,
+        "hex": "#e052c0",
+        "area": 0.02229936823669231
+      },
+      {
+        "r": 211,
+        "g": 216,
+        "b": 104,
+        "hex": "#d3d868",
+        "area": 0.00010946393945080378
+      },
+      {
+        "r": 137,
+        "g": 126,
+        "b": 118,
+        "hex": "#897e76",
+        "area": 0.24110214549321324
+      },
+      {
+        "r": 239,
+        "g": 234,
+        "b": 239,
+        "hex": "#efeaef",
+        "area": 0.13733033089385124
+      },
+      {
+        "r": 39,
+        "g": 39,
+        "b": 39,
+        "hex": "#272727",
+        "area": 0.5938262338149747
+      }
+    ],
+    "author": {
+      "name": "Zakaria Hossain",
+      "email": "zakariahossain323@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/457596104_1028151319100640_8318589334397197086_n.jpg",
+      "_id": "100b5f7f15f1df12649da7bf",
+      "teamMember": true
+    },
+    "district": {
+      "id": "47",
+      "division_id": "6",
+      "name": "Dhaka",
+      "bn_name": "ঢাকা",
+      "lat": "23.7115253",
+      "lon": "90.4111451",
+      "url": "www.dhaka.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "",
+      "flash": "",
+      "iso": "",
+      "model": "",
+      "software": "Adobe Photoshop 26.2 (Windows)",
+      "datetimeOriginal": "",
+      "focalLength": "",
+      "creatorTool": "Adobe Lightroom 10.1.0 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-04-21T12:00:34.723Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Landscapes",
+        "value": "দৃশ্যপট"
+      },
+      {
+        "label": "Green",
+        "value": "সবুজ"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "a1b3df73-d1a8-4da9-a257-4c48a77e1738"
+  },
+  {
     "name": "🌅 সূর্যাস্তের সোনালী আলোয় ফিরে দেখা জীবনের প্রতিচ্ছবি (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/🌅 সূর্যাস্তের সোনালী আলোয় ফিরে দেখা জীবনের প্রতিচ্ছবি (Chobegraphy).jpeg",
     "description": "🌅 সূর্যাস্তের সোনালী আলোয় ফিরে দেখা জীবনের প্রতিচ্ছবি",
