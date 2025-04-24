@@ -1,5 +1,116 @@
 [
   {
+    "name": "Winter morning  (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/Winter morning  (Chobegraphy).jpeg",
+    "description": "Winter morning ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/Winter morning  (Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/Winter morning  (Chobegraphy).jpeg",
+    "dimensions": "4000 x 2000",
+    "fileSize": "2.20",
+    "colors": [
+      {
+        "r": 255,
+        "g": 190,
+        "b": 0,
+        "hex": "#ffbe00",
+        "area": 0.051371680034955215
+      },
+      {
+        "r": 165,
+        "g": 142,
+        "b": 124,
+        "hex": "#a58e7c",
+        "area": 0.49065260135451455
+      },
+      {
+        "r": 66,
+        "g": 55,
+        "b": 39,
+        "hex": "#423727",
+        "area": 0.45797571861053027
+      }
+    ],
+    "author": {
+      "_id": "06dfd416530eec8551ba3f2c",
+      "email": "afnafshahriar8@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/inbound2069237421566935678.jpg",
+      "name": "Af Naf Shahriar ",
+      "phone": "01310195259",
+      "district": {
+        "id": "7",
+        "division_id": "1",
+        "name": "Lakshmipur",
+        "bn_name": "লক্ষ্মীপুর",
+        "lat": "22.942477",
+        "lon": "90.841184",
+        "url": "www.lakshmipur.gov.bd"
+      },
+      "presentAddress": "Stadium road, Lakshmipur ",
+      "gmail": "afnafshahriar8@gmail.com",
+      "facebook": "https://www.facebook.com/share/1AM3vzLBtv/",
+      "whatsapp": "01310195259",
+      "aboutMe": "I am Af Naf Shahriar from Lakshmipur district, Bangladesh. I love photography & also travel. I take photos lifestyle & street photography. My biggest achievement \"COG\" INDIA ART FOUNDATION PHOTOGRAPHY EXHIBITION."
+    },
+    "district": {
+      "id": "7",
+      "division_id": "1",
+      "name": "Lakshmipur",
+      "bn_name": "লক্ষ্মীপুর",
+      "lat": "22.942477",
+      "lon": "90.841184",
+      "url": "www.lakshmipur.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "1",
+      "flash": "Flash did not fire",
+      "iso": "",
+      "model": "--",
+      "software": "Adobe Lightroom 8.2.3 (Android)",
+      "datetimeOriginal": "2023:11:07 05:59:02",
+      "focalLength": "",
+      "creatorTool": "Adobe Lightroom 8.2.3 (Android)",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-04-24T23:37:39.031Z",
+    "status": "pending",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "Seasons",
+        "value": "ঋতু"
+      },
+      {
+        "label": "Sky",
+        "value": "আকাশ"
+      },
+      {
+        "label": "Sunrise",
+        "value": "সূর্যোদয়"
+      },
+      {
+        "label": "Winter",
+        "value": "শীতকালীন"
+      },
+      {
+        "label": "Fogy",
+        "value": "কুয়াশাচ্ছন্ন"
+      },
+      {
+        "label": "Bangladesh ",
+        "value": "বাংলাদেশ "
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "5fca0e73-7d32-4b3f-aa74-85832d266c4b"
+  },
+  {
     "name": "Sunset jump  (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/Sunset jump  (Chobegraphy).jpeg",
     "description": "Sunset jump ",
