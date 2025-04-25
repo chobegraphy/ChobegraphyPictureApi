@@ -1991,7 +1991,7 @@
       "subjectDistance": ""
     },
     "uploadedTime": "2025-04-20T06:50:21.468Z",
-    "status": "pending",
+    "status": "rejected",
     "copyright": "CC-BY",
     "collections": [
       {
@@ -2062,7 +2062,8 @@
     "view": 17,
     "download": 2,
     "react": 5,
-    "_id": "64a4f23e-916a-4f02-8065-044b12bee1d7"
+    "_id": "64a4f23e-916a-4f02-8065-044b12bee1d7",
+    "rejectionReason": "ছবির মধ্যে সাদা বর্ডার দিবেন না ভাইয়া ।"
   },
   {
     "name": "আমার ছোট তরী, বলো যাবে কি...!! (Chobegraphy).jpeg",
