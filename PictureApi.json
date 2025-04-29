@@ -148,7 +148,7 @@
       "subjectDistance": ""
     },
     "uploadedTime": "2025-04-29T09:16:13.319Z",
-    "status": "pending",
+    "status": "rejected",
     "copyright": "CC-BY",
     "collections": [
       {
@@ -159,7 +159,8 @@
     "view": 0,
     "download": 0,
     "react": 0,
-    "_id": "44a835fd-af65-41c7-8826-1e57bb3f1a0a"
+    "_id": "44a835fd-af65-41c7-8826-1e57bb3f1a0a",
+    "rejectionReason": "এই ছবি আরেক জনের।"
   },
   {
     "name": "কমলা ফুল🏵️ (Chobegraphy).jpeg",
