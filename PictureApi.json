@@ -1,5 +1,132 @@
 [
   {
+    "name": "শুভ্রতা 🪷🍀 (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/%E0%A6%B6%E0%A7%81%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%20%F0%9F%AA%B7%F0%9F%8D%80%20(Chobegraphy).jpeg",
+    "description": "শুভ্রতা 🪷🍀",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/%E0%A6%B6%E0%A7%81%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%20%F0%9F%AA%B7%F0%9F%8D%80%20(Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/%E0%A6%B6%E0%A7%81%E0%A6%AD%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BE%20%F0%9F%AA%B7%F0%9F%8D%80%20(Chobegraphy).jpeg",
+    "dimensions": "2250 x 3000",
+    "fileSize": "0.62",
+    "colors": [
+      {
+        "r": 112,
+        "g": 169,
+        "b": 24,
+        "hex": "#70a918",
+        "area": 0.0006411459310689936
+      },
+      {
+        "r": 225,
+        "g": 197,
+        "b": 121,
+        "hex": "#e1c579",
+        "area": 0.002298742728466879
+      },
+      {
+        "r": 139,
+        "g": 162,
+        "b": 170,
+        "hex": "#8ba2aa",
+        "area": 0.11800212672796648
+      },
+      {
+        "r": 17,
+        "g": 29,
+        "b": 27,
+        "hex": "#111d1b",
+        "area": 0.03335522612122349
+      },
+      {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "hex": "#ffffff",
+        "area": 0.13792456370801276
+      },
+      {
+        "r": 82,
+        "g": 87,
+        "b": 93,
+        "hex": "#52575d",
+        "area": 0.7077781947832614
+      }
+    ],
+    "author": {
+      "_id": "d0ab56f5ba2a870683bb943e",
+      "email": "arafatrahat94@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocLw44aRRcfCCWkmndfIGINV89FjxBYOjnNqE2NltYCZ_4IYNxqf9A=s96-c",
+      "teamMember": true,
+      "name": "Md. Arafath Hossain (Rahat)",
+      "phone": "+8801980389400",
+      "district": {
+        "id": "8",
+        "division_id": "1",
+        "name": "Chattogram",
+        "bn_name": "চট্টগ্রাম",
+        "lat": "22.335109",
+        "lon": "91.834073",
+        "url": "www.chittagong.gov.bd"
+      },
+      "presentAddress": "ইমাম নগর, ভাটিয়ারী, চট্টগ্রাম",
+      "gmail": "arafatrahat94@gmail.com",
+      "facebook": "https://www.facebook.com/md.arafathhossainrahat/",
+      "whatsapp": "+8801980389400",
+      "telegram": "https://t.me/ArafathSensei94",
+      "aboutMe": "Iam A web developer & with front‑end & back-end skills.",
+      "teamRole": "Web and App developer and maintainer."
+    },
+    "district": {
+      "id": "8",
+      "division_id": "1",
+      "name": "Chattogram",
+      "bn_name": "চট্টগ্রাম",
+      "lat": "22.335109",
+      "lon": "91.834073",
+      "url": "www.chittagong.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/400",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 71,
+      "model": "M2101K7AI",
+      "software": "Adobe Lightroom 9.5.0 (Android)",
+      "datetimeOriginal": "2024:08:25 07:04:12",
+      "focalLength": "4.74 mm",
+      "creatorTool": "Adobe Lightroom 9.5.0 (Android)",
+      "subjectDistance": "7.845 m"
+    },
+    "uploadedTime": "2025-04-30T18:12:09.311Z",
+    "status": "approved",
+    "copyright": "CC-BY",
+    "collections": [
+      {
+        "label": "Floral",
+        "value": "ফুল"
+      },
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      },
+      {
+        "label": "White Flower",
+        "value": "সাদা ফুল"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      },
+      {
+        "label": "White",
+        "value": "সাদা"
+      }
+    ],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "9cdeac57-8610-457b-a165-19cb5a29bf8f"
+  },
+  {
     "name": "Cat (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/Cat%20(Chobegraphy).jpeg",
     "description": "Cat",
