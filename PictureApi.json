@@ -1,5 +1,86 @@
 [
   {
+    "name": "লাল পিঁপড়া  (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/%E0%A6%B2%E0%A6%BE%E0%A6%B2%20%E0%A6%AA%E0%A6%BF%E0%A6%81%E0%A6%AA%E0%A7%9C%E0%A6%BE%20%20(Chobegraphy).jpeg",
+    "description": "লাল পিঁপড়া ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/%E0%A6%B2%E0%A6%BE%E0%A6%B2%20%E0%A6%AA%E0%A6%BF%E0%A6%81%E0%A6%AA%E0%A7%9C%E0%A6%BE%20%20(Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/%E0%A6%B2%E0%A6%BE%E0%A6%B2%20%E0%A6%AA%E0%A6%BF%E0%A6%81%E0%A6%AA%E0%A7%9C%E0%A6%BE%20%20(Chobegraphy).jpeg",
+    "dimensions": "1412 x 1883",
+    "fileSize": "0.83",
+    "colors": [
+      {
+        "r": 204,
+        "g": 103,
+        "b": 4,
+        "hex": "#cc6704",
+        "area": 0.005238631388002752
+      },
+      {
+        "r": 244,
+        "g": 172,
+        "b": 114,
+        "hex": "#f4ac72",
+        "area": 0.000046913116907487336
+      },
+      {
+        "r": 119,
+        "g": 120,
+        "b": 122,
+        "hex": "#77787a",
+        "area": 0.0793926315131044
+      },
+      {
+        "r": 220,
+        "g": 220,
+        "b": 220,
+        "hex": "#dcdcdc",
+        "area": 0.02059485832238694
+      },
+      {
+        "r": 41,
+        "g": 57,
+        "b": 47,
+        "hex": "#29392f",
+        "area": 0.8947269656595984
+      }
+    ],
+    "author": {
+      "name": "Rahima Rahman",
+      "email": "rahmanrahima401@gmail.com",
+      "picture": "https://lh3.googleusercontent.com/a/ACg8ocL4e2pKlIxqJRy9Hk-mZbTXf2O7f4tfY1tcC4hPcCz9yvgr5nqk=s96-c",
+      "_id": "00932e37661642d86cfc0be1"
+    },
+    "district": {
+      "id": "36",
+      "division_id": "5",
+      "name": "Sylhet",
+      "bn_name": "সিলেট",
+      "lat": "24.8897956",
+      "lon": "91.8697894",
+      "url": "www.sylhet.gov.bd"
+    },
+    "exifData": {
+      "aperture": "",
+      "exposureTime": "1/125",
+      "flash": "Flash did not fire",
+      "iso": 40,
+      "model": "SM-G950F",
+      "software": "",
+      "datetimeOriginal": "2024:12:31 22:36:47",
+      "focalLength": "4.2 mm",
+      "creatorTool": "",
+      "subjectDistance": ""
+    },
+    "uploadedTime": "2025-08-27T07:42:13.275Z",
+    "status": "pending",
+    "copyright": "CC-BY",
+    "collections": [],
+    "view": 0,
+    "download": 0,
+    "react": 0,
+    "_id": "17564d29-b12d-4738-970d-c3470ee101cc"
+  },
+  {
     "name": "স্বর্গীয় হংস। (Chobegraphy).jpeg",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A7%9F%20%E0%A6%B9%E0%A6%82%E0%A6%B8%E0%A5%A4%20(Chobegraphy).jpeg",
     "description": "স্বর্গীয় হংস।",
