@@ -241,97 +241,6 @@
     "_id": "de02c13f-bc46-460d-8cf9-085cce21397a"
   },
   {
-    "name": "পথের ধারে প্রাকৃতিক চুমুক।\n  (Chobegraphy).jpeg",
-    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A5%A4%0D%0A%20%20(Chobegraphy).jpeg",
-    "description": "পথের ধারে প্রাকৃতিক চুমুক।\n ",
-    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A5%A4%0A%20%20(Chobegraphy).jpeg",
-    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A5%A4%0A%20%20(Chobegraphy).jpeg",
-    "dimensions": "3072 x 4080",
-    "fileSize": "4.00",
-    "colors": [
-      {
-        "r": 255,
-        "g": 210,
-        "b": 2,
-        "hex": "#ffd202",
-        "area": 0.0000311332503113325
-      },
-      {
-        "r": 189,
-        "g": 134,
-        "b": 38,
-        "hex": "#bd8626",
-        "area": 0.05056039850560398
-      },
-      {
-        "r": 92,
-        "g": 138,
-        "b": 161,
-        "hex": "#5c8aa1",
-        "area": 0.18544520547945206
-      },
-      {
-        "r": 176,
-        "g": 208,
-        "b": 199,
-        "hex": "#b0d0c7",
-        "area": 0.014305728518057285
-      },
-      {
-        "r": 65,
-        "g": 70,
-        "b": 66,
-        "hex": "#414642",
-        "area": 0.7496575342465753
-      }
-    ],
-    "author": {
-      "name": "Shakib",
-      "email": "mrmonus97@gmail.com",
-      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/1000018157.jpg",
-      "_id": "76b9747fe5d1f3321e33b71b"
-    },
-    "district": {
-      "id": "1",
-      "division_id": "1",
-      "name": "Comilla",
-      "bn_name": "কুমিল্লা",
-      "lat": "23.4682747",
-      "lon": "91.1788135",
-      "url": "www.comilla.gov.bd"
-    },
-    "exifData": {
-      "aperture": "1.80",
-      "exposureTime": "1/460",
-      "flash": "Flash did not fire, compulsory flash mode",
-      "iso": 77,
-      "model": "CPH2579 (OP5759L1)",
-      "software": "Adobe Lightroom 10.1.0 (Android)",
-      "datetimeOriginal": "2025:05:19 15:03:59",
-      "focalLength": "3.98 mm",
-      "creatorTool": "Adobe Lightroom 10.1.0 (Android)",
-      "subjectDistance": "0 m"
-    },
-    "uploadedTime": "2025-06-28T17:37:15.375Z",
-    "status": "rejected",
-    "copyright": "CC-0",
-    "collections": [
-      {
-        "label": "Flower",
-        "value": "ফুল"
-      },
-      {
-        "label": "Nature",
-        "value": "প্রকৃতি"
-      }
-    ],
-    "view": 0,
-    "download": 0,
-    "react": 0,
-    "_id": "e696b967-58e8-4f28-bf4f-6ec5905b0fc2",
-    "rejectionReason": "ছবি উচ্চমানের নয়"
-  },
-  {
     "name": "চললেই বাঁচা, থামলেই শেষ...  (Chobegraphy).png",
     "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/%E0%A6%9A%E0%A6%B2%E0%A6%B2%E0%A7%87%E0%A6%87%20%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE,%20%E0%A6%A5%E0%A6%BE%E0%A6%AE%E0%A6%B2%E0%A7%87%E0%A6%87%20%E0%A6%B6%E0%A7%87%E0%A6%B7...%20%20(Chobegraphy).png",
     "description": "চললেই বাঁচা, থামলেই শেষ... ",
@@ -12245,6 +12154,96 @@
     ],
     "view": 4,
     "download": 1,
+    "react": 0
+  },
+  {
+    "_id": "e696b967-58e8-4f28-bf4f-6ec5905b0fc2",
+    "name": "পথের ধারে প্রাকৃতিক চুমুক।\n  (Chobegraphy).jpeg",
+    "url": "https://raw.githubusercontent.com/chobegraphy/PictureStorage/main/%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A5%A4%0D%0A%20%20(Chobegraphy).jpeg",
+    "description": "পথের ধারে প্রাকৃতিক চুমুক।\n ",
+    "thumbnail": "https://raw.githubusercontent.com/chobegraphy/ThumbnailStorage/main/%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A5%A4%0A%20%20(Chobegraphy).jpeg",
+    "encodedUrl": "https://raw.githubusercontent.com/chobegraphy/EncodedStorage/main/%E0%A6%AA%E0%A6%A5%E0%A7%87%E0%A6%B0%20%E0%A6%A7%E0%A6%BE%E0%A6%B0%E0%A7%87%20%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%95%E0%A7%83%E0%A6%A4%E0%A6%BF%E0%A6%95%20%E0%A6%9A%E0%A7%81%E0%A6%AE%E0%A7%81%E0%A6%95%E0%A5%A4%0A%20%20(Chobegraphy).jpeg",
+    "dimensions": "3072 x 4080",
+    "fileSize": "4.00",
+    "colors": [
+      {
+        "r": 255,
+        "g": 210,
+        "b": 2,
+        "hex": "#ffd202",
+        "area": 0.0000311332503113325
+      },
+      {
+        "r": 189,
+        "g": 134,
+        "b": 38,
+        "hex": "#bd8626",
+        "area": 0.05056039850560398
+      },
+      {
+        "r": 92,
+        "g": 138,
+        "b": 161,
+        "hex": "#5c8aa1",
+        "area": 0.18544520547945206
+      },
+      {
+        "r": 176,
+        "g": 208,
+        "b": 199,
+        "hex": "#b0d0c7",
+        "area": 0.014305728518057285
+      },
+      {
+        "r": 65,
+        "g": 70,
+        "b": 66,
+        "hex": "#414642",
+        "area": 0.7496575342465753
+      }
+    ],
+    "author": {
+      "name": "Shakib",
+      "email": "mrmonus97@gmail.com",
+      "picture": "https://raw.githubusercontent.com/chobegraphy/UserImgStorage/main/1000018157.jpg",
+      "_id": "76b9747fe5d1f3321e33b71b"
+    },
+    "district": {
+      "id": "1",
+      "division_id": "1",
+      "name": "Comilla",
+      "bn_name": "কুমিল্লা",
+      "lat": "23.4682747",
+      "lon": "91.1788135",
+      "url": "www.comilla.gov.bd"
+    },
+    "exifData": {
+      "aperture": "1.80",
+      "exposureTime": "1/460",
+      "flash": "Flash did not fire, compulsory flash mode",
+      "iso": 77,
+      "model": "CPH2579 (OP5759L1)",
+      "software": "Adobe Lightroom 10.1.0 (Android)",
+      "datetimeOriginal": "2025:05:19 15:03:59",
+      "focalLength": "3.98 mm",
+      "creatorTool": "Adobe Lightroom 10.1.0 (Android)",
+      "subjectDistance": "0 m"
+    },
+    "uploadedTime": "2025-06-28T17:37:15.375Z",
+    "status": "pending",
+    "copyright": "CC-0",
+    "collections": [
+      {
+        "label": "Flower",
+        "value": "ফুল"
+      },
+      {
+        "label": "Nature",
+        "value": "প্রকৃতি"
+      }
+    ],
+    "view": 0,
+    "download": 0,
     "react": 0
   }
 ]
