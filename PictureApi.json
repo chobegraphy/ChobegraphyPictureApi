@@ -12316,7 +12316,7 @@
       "subjectDistance": "0 m"
     },
     "uploadedTime": "2025-06-28T17:37:15.375Z",
-    "status": "pending",
+    "status": "rejected",
     "copyright": "CC-0",
     "collections": [
       {
@@ -12330,6 +12330,7 @@
     ],
     "view": 0,
     "download": 0,
-    "react": 0
+    "react": 0,
+    "rejectionReason": "ছবি উচ্চমানের নয়"
   }
 ]
